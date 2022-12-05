@@ -13,8 +13,8 @@ dependencyResolutionManagement {
         maven {
 
             credentials {
-                username = NavSDKUsername
-                password = NavSDKPassword
+                username = student_user
+                password = y65ud5Xas75mtW6
             }
             url = uri("https://repositories.tomtom.com/artifactory/maven")
 
